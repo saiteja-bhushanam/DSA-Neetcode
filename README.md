@@ -14,17 +14,6 @@ Language: [Indicate your primary language, e.g., Python]
 Open Collaboration: Issues and pull requests are welcome for optimizing solutions or adding new approaches.
 
 
-#Structure
-DSA-Neetcode/
-├── Arrays/
-├── Strings/
-├── LinkedLists/
-├── Trees/
-├── Graphs/
-├── DP/
-├── [etc.]
-└── README.md
-
 
 Problems are organized by topic for easy discovery and reference.
 
